@@ -12,7 +12,7 @@ For more information and Polverine FAQ go to our [website](https://www.blackiot.
 ## 3D Printed Cover
 Various versions of 3D printable shields are availble from the community:
 
-- [Makerworld mode from skunkyprototypes](https://makerworld.com/en/models/1806923-blackiot-polverine-cover#profileId-1988748).
+- [Makerworld 3d model from skunkyprototypes](https://makerworld.com/en/models/1806923-blackiot-polverine-cover#profileId-1988748).
     
 ![Polverine Cover](images/polverinecover.png)
 
